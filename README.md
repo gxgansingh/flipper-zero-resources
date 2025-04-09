@@ -21,7 +21,7 @@
   <td>
     <h3 align="center">
     👋 New to Flipper Zero? Got questions?<br>
-    Check out the <a href="https://github.com/djsime1/awesome-flipperzero/blob/main/FAQ.md">FAQ Document</a>❗
+    Check out the <a href="https://github.com/gxgansingh/flipper-zero-resources/blob/main/FAQ.md">FAQ Document</a>❗
     </h3>
   </td>
   <td>
